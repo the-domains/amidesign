@@ -1,0 +1,28 @@
+name: amidesign
+favicon: null
+layout_spectrum: 0.445938645163551
+typography_spectrum: 0.4906044499948621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6512582311406732
+  lightness: 0.08443654817529023
+  saturation: 0.3958256153855473
+  rhythmicContrast: 0.5314073266927153
+purpose: []
